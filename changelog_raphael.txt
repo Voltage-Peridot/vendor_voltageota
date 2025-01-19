@@ -1,5 +1,31 @@
 -----------------------------------------------------------
 
+VoltageOS 4.1
+
+Build Date : 19/01/2025
+
+Device Side :
+ - Fixed Offline Charging
+ - Fixed Whatapp call end takes time
+ - Fixed After a missed call, video/audio won't work untill reboot
+ - Fixed audio server crashing
+ - Enable ELF checks
+ - Explicitly set as an non-AB target
+ - Remove duplicate wakeup nodes
+ - Update display flags & packages
+ - Convert Rootdir from Android.mk to Android.bp
+ - Migrate mount point creation out of Android.mk
+ - Move to common lights hal
+ - Removed VoltageOS Doze and back to Xiaomi Parts Doze
+
+Vendor Side :
+ - Extract vendor after ELF 
+
+Kernel Side :
+ - Fixed wpa3 mixed mode
+
+-----------------------------------------------------------
+
 VoltageOS 4.0.1
 
 Build Date : 08/12/2024
