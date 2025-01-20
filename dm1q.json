@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "Mezaque Silver(guckesh)",
+        "oem": "SAMSUNG",
+        "device": "Galaxy S23",
+        "filename": "voltage-4.1-dm1q-20250116-2345-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/dm1q/voltage-4.1-dm1q-20250116-2345-OFFICIAL.zip/download",
+        "timestamp": 1737070994,
+        "md5": "034fab76119cfb8202bc30d5f590928d",
+        "size": 1746075818,
+        "version": "4.1"
+    }
+  ]
+}

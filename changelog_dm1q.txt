@@ -1,0 +1,12 @@
+VoltageOS 4.1
+Build Date : 20/01/25
+ - Clean flash is highly recommended
+
+Notes: 
+ - Vanilla build
+ - January Security Patch
+ - Known issues: We still have gamut shift when using adaptive refresh rate and battery consumption is still not good enough.
+
+Credts:
+ ° chaptsand for Kernel and most bug fix commits
+ ° All AOSP Developers
