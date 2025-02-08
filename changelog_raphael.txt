@@ -1,4 +1,22 @@
 -----------------------------------------------------------
+VoltageOS 4.2
+
+Build Date : 08/02/2025
+
+Device Side :
+ - Fixed Boot animation lag
+ - Fixed Fm Radio not working
+ - Fixed Ok Google not working
+ - Shift to common libqti-perfd-client & power-libperfmgr
+ - Remove OMX
+ - Switch to python extract-utils
+ - Addressed many sepolicy denials
+
+Vendor Side :
+ - Remove OMX blobs
+ - Regenerate vendor after python extract-utils changes
+
+-----------------------------------------------------------
 
 VoltageOS 4.1
 
