@@ -1,3 +1,19 @@
+VoltageOS 4.2
+Build Date: 08/02/2025
+
+Device
+- Moved WfdCommon boot jar declaration to vendor
+- Removed MiuiCamera
+- Added OnePlus Dolby 
+- Disabled QS media player turbulence 
+Kernel
+- fs: Lower reclaim segment and threshold
+- Set swappiness to 80
+- Few optimizations to mm
+- Introduced SCHED_CASS
+
+
+
 VoltageOS 4.1
 Build Date: 19/01/2025
 
