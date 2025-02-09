@@ -1,3 +1,11 @@
+VoltageOS 4.2
+Build Date: 09/02/2025
+
+- Kill off old dolby for a clean and a working implementation
+- Update to NOS 3.0 blobs
+- Switch to common lights and libperf HAL
+- More miscellaneous under-the-hood changes
+
 VoltageOS 4.0
 Build Date: 14/11/2024
 
