@@ -1,3 +1,15 @@
+VoltageOS 4.2
+Build Date: 09/02/2025
+Device Side:
+- Added OnePlus Dolby
+- Disabled Turbulence Noise
+- Addressed Some Sepolicy Denials
+- Disabled FRP
+- Fixed Inaccurate Brightness Bar
+- Many Under The Hood Changes
+
+-----------------------------------------------------------------------------------------------
+
 VoltageOS 4.1
 Build Date: 19/01/2025
 Device Side:
