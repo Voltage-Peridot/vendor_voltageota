@@ -1,3 +1,10 @@
+VoltageOS 4.2 - Hotfix
+Build Date: 15/02/2025
+
+- Fixed GmsCompat crashes
+- Switched to LOS sources as for device
+- Removed NOS Cams and Dolby for now (will return in a future release)
+
 VoltageOS 4.2
 Build Date: 09/02/2025
 
