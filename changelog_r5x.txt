@@ -1,3 +1,14 @@
+VoltageOS 4.2
+Build Date : 16-02-2025 
+Device Side:    
+		- Added cpuTempDivider value
+		- r5x: Switch to AIDL thermal HAL
+
+Kernel Side:
+		- Merge tag 'v4.14.355-openela' of https://github.com/openela/kernel-lts into upstream
+		- gpucc-trinket: Undervolt GPU
+		- Merged latest AK3
+
 VoltageOS 4.1 
 Build Date : 24-1-2025
 Device Side:
