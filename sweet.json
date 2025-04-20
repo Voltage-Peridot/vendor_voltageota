@@ -4,12 +4,12 @@
         "maintainer": "Niranjan BR",
         "oem": "Redmi",
         "device": "Xiaomi Redmi Note 10 Pro",
-        "filename": "voltage-4.2-sweet-20250208-0459-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/sweet/voltage-4.2-sweet-20250208-0459-OFFICIAL.zip/download",
-        "timestamp": 1738990677,
-        "md5": "2f4804a3e9f97a92fac5850be6b03131",
-        "size": 1961148011,
-        "version": "4.2"
+        "filename": "voltage-4.3-sweet-20250418-1721-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/sweet/voltage-4.3-sweet-20250418-1721-OFFICIAL.zip/download",
+        "timestamp": 1744996676,
+        "md5": "b872d80128359ccc4a82ef6494016db9",
+        "size": 1956689379,
+        "version": "4.3"
     }
   ]
 }

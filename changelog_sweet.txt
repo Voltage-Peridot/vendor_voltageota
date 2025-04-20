@@ -1,3 +1,22 @@
+VoltageOS 4.3
+Build Date : 20/04/2025
+- sepolicy: Change vendor_fp_prop to vendor_public_prop
+- sepolicy: Remove duplicate snxxx AIDL rules
+- Setup ELF checks
+- Set 120Hz frame rate multiple threshold
+- Disable content detection for refresh rate switching
+- Updated tetheroffload: Version 1.1
+- decrease swappiness to 60
+- sepolicy: Address/Silence some denials
+- sepolicy: Do not audit surfaceflinger denials
+- set CPU_VARIANT := cortex-a55
+- Build QTI Thermal AIDL HAL
+- rootdir: Set ro.boot.hardware.revision property
+- Switch to common QTI USB init scripts
+- Switched to MIUI x ONEPLUS Dolby
+- Improved MIUI Camera
+
+
 VoltageOS 4.2
 Build Date : 08/02/2025
 - sepolicy: Address Wi-Fi HAL denial
