@@ -1,33 +1,15 @@
-VoltageOS 2.6
-Build Date : 14/07/23
-- Updated Adreno blobs to LA.UM.9.14.r1-21000-LAHAINA.QSSI13.0 
-- Adressed some denials
+VoltageOS 4.3
+Build Date: 20/04/2025
+Device Side:
+- Initial Release
+- Added OnePlus Dolby
+- Based On LineageOS Trees
+- Added Device As Webcam
 
-VoltageOS 2.5
-Build Date : 08/05/23
-- Update to LA.UM.9.1.r1-12900-SMxxx0.0
-- Remove prebuilt aptX libraries 
-- Update blobs from Redmi Note 10 Pro V14.0.1.0.TKFMIXM 
-- Move BT profiles props to vendor 
-- Drop component overrides 
-- Move qti_whitelist.xml to /system_ext 
-- Updated vendor blobs from LA.UM.9.1.r1-12900-SMxxx0.0
-- Updated system blobs from  LA.QSSI.13.0.r1-09400.01-qssi.0
-
-VoltageOS 2.3
-Build Date : 18/02/23
-- Added MIUI Camera
-- Addressed some denials
-
-VoltageOS 2.2
-Build Date : 19/01/23
-- Switched to Azure kernel
-- Update private build description from MiUI V12.5.1.0 QFHCNXM
-- audio: Use QCOM AudioFX implementation for sw effects
-- Updated blobs Redmi Note 10 Pro V13.0.12.0.SKFMIXM
-- Droped a615 GPU firmware 
-
-VoltageOS 2.0
-Build Date : 16/11/22
- - Initial A13 build
- - November Security Patch
+Kernel Side:
+- Comes With Nebula Kernel
+- Lowered Reclaim Segment and Threshold
+- Tweaked Memory Pressure For 4GB RAM Devices
+- Set Swappiness To 80
+- Lowered The Non-Hugetlbpage Pageblock Size To Reduce Scheduling Delays
+- Many More Changes From LineageOS SM6150 Kernel
