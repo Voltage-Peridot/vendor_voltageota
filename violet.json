@@ -1,15 +1,15 @@
 {
   "response": [
     {
-        "maintainer": "Niranjan BR",
+        "maintainer": "𝕱𝖗𝖔𝖘𝖙",
         "oem": "Redmi",
         "device": "Xiaomi Redmi Note 7 Pro",
-        "filename": "voltage-2.6-violet-20230714-0648-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/violet/voltage-2.6-violet-20230714-0648-OFFICIAL.zip/download",
-        "timestamp": 1689317171,
-        "md5": "9a608aed9ee9789979630a2a28228ca7",
-        "size": 1461041889,
-        "version": "2.6"
+        "filename": "voltage-4.3-violet-20250420-1339-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/violet/voltage-4.3-violet-20250420-1339-OFFICIAL.zip/download",
+        "timestamp": 1745156020,
+        "md5": "7a4ad971278a8af71bba527d4f6930ed",
+        "size": 1515663132,
+        "version": "4.3"
     }
   ]
 }
