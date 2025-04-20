@@ -1,4 +1,40 @@
 -----------------------------------------------------------
+
+VoltageOS 4.3
+
+Build Date : 20/04/2025
+
+Device Side :
+ - Shifted to AIDL fingerprint hal from hardware/xiaomi
+ - Shifted to udfps handler
+ - Shifted to sensor based st2w & dt2w
+ - Shifted to sensor based udfps on aod
+ - Shifted to Xiaomi sensors impl for raise to wake
+ - Removed Doze from Xiaomi parts
+ - Build AIDL thermal hal
+ - Build IFAA service from hardware/xiaomi
+ - Build Camera Popup Motor service from hardware/xiaomi
+ - Patch Megvii from hardware/xiaomi
+ - Build Mlipay Interface from hardware/xiaomi
+ - Build Mtd service from hardware/xiaomi
+ - Enable ELF checks for libwpa_client dependent libs
+ - Enable wifi aware support
+ - Uprev tetheroffload to version 1.1
+
+Vendor Side :
+ - Remove prebuilt IFAA service blobs
+ - Remove prebuilt Mlipay interface blobs
+ - Remove prebuilt Mtd service blobs
+ - Re-extract vendor after libwpa_client elf changes
+ 
+Kernel Side :
+ - Switch to LineageOS kernel_qcom_sm8150 as new base
+ - Implement udfps on aod, double & single tap to wake in goodix_driver_gt9886
+ - Enable Wireguard VPN support
+ - Disable Debugfs
+
+-----------------------------------------------------------
+
 VoltageOS 4.2
 
 Build Date : 08/02/2025
