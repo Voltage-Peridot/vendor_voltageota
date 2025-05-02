@@ -4,12 +4,12 @@
         "maintainer": "StudioKeys",
         "oem": "Nothing",
         "device": "Phone (1)",
-        "filename": "voltage-4.2-Spacewar-20250215-0513-OFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/voltage-os/files/Spacewar/voltage-4.2-Spacewar-20250215-0513-OFFICIAL.zip/download",
-        "timestamp": 1739596337,
-        "md5": "6cdd44e94210a70e23c850d531853bfb",
-        "size": 1367297950,
-        "version": "4.2"
+        "filename": "voltage-4.3-Spacewar-20250502-0332-OFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/voltage-os/files/Spacewar/voltage-4.3-Spacewar-20250502-0332-OFFICIAL.zip/download",
+        "timestamp": 1746156730,
+        "md5": "3bb98f58213d5432ddacabd66b508b5b",
+        "size": 1360111341,
+        "version": "4.3"
     }
   ]
 }
