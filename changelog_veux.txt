@@ -1,3 +1,21 @@
+VoltageOS 4.4
+Build Date: 17/05/2025
+Device Side:
+- Initial QPR 2 Build
+- Switched To AIDL bootctrl HAL
+- Fixed AOD Brightness At 55%
+- Fixed Display Flickering Problem While Toggling Night Light
+- Updated Adreno Blobs to 530.54
+- Fixed Most Network Instabilities
+- Switched To NCM USB Tethering
+- Re-added Charging Control
+
+Kernel Side:
+- Comes With Latest Nebula Kernel Without KernelSU
+- Read Changelogs Here - https://github.com/dev-sm6375/kernel_xiaomi_sm6375/releases/tag/r03 
+
+-----------------------------------------------------------------------------------------------
+
 VoltageOS 4.2
 Build Date: 09/02/2025
 Device Side:
