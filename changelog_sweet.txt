@@ -1,3 +1,14 @@
+VoltageOS 4.4
+Build Date : 17/04/2025
+- sepolicy: Address kernel wakelock denial
+- sepolicy: Remove duplicate snxxx AIDL rules
+- Re enable content detection for refresh rate switching
+- rootdir: Add "system" group to Audio HAL
+- rootdir: Optimize for Spatial Audio
+- rootdir: Enable RT priority inheritance
+- rootdir: add context_hub into audio hal group
+- Updated Dolby
+
 VoltageOS 4.3
 Build Date : 20/04/2025
 - sepolicy: Change vendor_fp_prop to vendor_public_prop
