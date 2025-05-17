@@ -1,3 +1,16 @@
+VoltageOS 4.4
+Build Date: 17/05/2025
+Device Side:
+- Disabled FRP
+- Switched To NCM USB Tethering
+
+Kernel Side:
+- Up To LTS 4.14.356 & Openela rc 1
+- Disabled CONFIG_NFC_NQ For Faster Boot
+- Imported uvc From android16-6.12
+
+-----------------------------------------------------------------------------------------------
+
 VoltageOS 4.3
 Build Date: 20/04/2025
 Device Side:
