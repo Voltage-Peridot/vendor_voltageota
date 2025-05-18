@@ -1,4 +1,9 @@
 VoltageOS 4.4
+Build Date: 18/05/2025
+Device Side:
+- Fixed Ringer QS Tile Crash
+- Updated Dolby Blobs
+
 Build Date: 17/05/2025
 Device Side:
 - Initial QPR 2 Build
