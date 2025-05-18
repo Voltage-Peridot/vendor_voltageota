@@ -1,5 +1,30 @@
 -----------------------------------------------------------
 
+VoltageOS 4.4
+
+Build Date : 18/05/2025
+
+Device side :
+ - Fixed long reboot time at Redmi logo splash screen
+ - Get rid of libinit
+ - Add RROs for setting correct device name and hotspot ssid
+ - Fixed wrong device name, model name, bluetooth name, hotspot name, usb name
+ - Drop TARGET_DISABLED_UBWC
+ - Disable UFFD GC
+ - Migrate Lineage Health to soong_config_set
+ - Set UDFPS extension lib via soong config
+ - Address several sepolicy denials
+ - Improvements in Nfc
+ - Enable ELF checks for libril-qcril-hook-oem.so
+
+Vendor side :
+ - Re-extract vendor after elf check changes.
+
+Kernel side :
+ - LTS: Update to 4.14.356
+
+-----------------------------------------------------------
+
 VoltageOS 4.3
 
 Build Date : 20/04/2025
