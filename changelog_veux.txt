@@ -1,3 +1,15 @@
+VoltageOS 4.5-EOL
+Build Date: 14/06/2025
+Device Side:
+- Miscallaneous Changes In Network
+- Enabled Battery Cycle Count
+
+Kernel Side:
+- Comes With Latest (r05) Nebula Kernel Without KernelSU
+- Read Changelog Here - https://raw.githubusercontent.com/dev-sm6375/kernel_xiaomi_sm6375/refs/heads/changelog/changelog.txt 
+
+-----------------------------------------------------------------------------------------------
+
 VoltageOS 4.4
 Build Date: 18/05/2025
 Device Side:
