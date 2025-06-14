@@ -1,3 +1,12 @@
+VoltageOS 4.5-EOL
+Build Date: 14/06/2025
+Device Side:
+- Added Additional Camera Framerates In Aperture
+- Fixed Yellow-Tinted Screen Bug
+- Implemented Torch Light Control
+
+-----------------------------------------------------------------------------------------------
+
 VoltageOS 4.4
 Build Date: 18/05/2025
 Device Side:
