@@ -1,5 +1,23 @@
 -----------------------------------------------------------
 
+VoltageOS 4.5 EOL
+
+Build Date : 16/06/2025
+
+Device Side :
+ - Fix nfc not showing for chinese variants
+ - Fix charging control, no more reboot required
+ - Use FUSE passthrough by default
+ - Inherit from QTI FCM
+ - Use hardware/xiaomi FCM
+ - Move Wifi rro overlay to vendor
+
+Kernel Side :
+ - Fix usb type c earphones not working
+ - Merge los sm8150 kernel repo changes
+
+-----------------------------------------------------------
+
 VoltageOS 4.4
 
 Build Date : 18/05/2025
