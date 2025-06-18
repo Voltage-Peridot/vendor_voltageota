@@ -1,3 +1,13 @@
+VoltageOS 4.5
+Build Date : 18/06/2025
+- media: Import Codec2 configs
+- remove OMX
+- Move input surface to CCodec
+- switched to common AIDL IR service
+- media: rc: ir-spi: enlarge transmit buffer
+- [UPSTREAM] media: rc: ir-spi: fix duty cycle
+- Revert "media: spi: Import Xiaomi IR SPI changes"
+
 VoltageOS 4.4
 Build Date : 17/04/2025
 - sepolicy: Address kernel wakelock denial
