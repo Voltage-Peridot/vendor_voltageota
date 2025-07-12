@@ -1,0 +1,15 @@
+{
+  "response": [
+    {
+        "maintainer": "GuidixX",
+        "oem": "Poco",
+        "device": "Xiaomi Poco F6",
+        "filename": "voltage-4.5-EOL-peridot-20250712-2152-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/guidixproject/files/voltage/stable/voltage-4.5-EOL-peridot-20250712-2152-UNOFFICIAL.zip/download",
+        "timestamp": 1752356871,
+        "md5": "b4f869e3419a3b86edf4928a2e171dba",
+        "size": 2695259142,
+        "version": "4.5"
+    }
+  ]
+}

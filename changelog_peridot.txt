@@ -1,5 +1,26 @@
 VoltageOS 4.5-EOL
-Build Date: 27/06/2025
+Build Date: 12/07/2025
 Device Side:
 
+* Update Vendor Blobs to OS2.0.104.0.VNPMIXM
+* Update Adreno Blobs to v819
+* Update Vulcan to v1.3.295
+* Set Vulcan As HWUI Renderer
+* Fix HDR/SDR
+* Fix Top Speaker On Lock Screen
+* Fix delay on getting network service after boot
+* Setup LMKD And tune for better Multitasking
+* Implement HTSR (Fix 500hz tsr)
+* Improve Statusbar Paddings and Rounded Corner Overlays
+* Drop 30hz timing
+* Enhance LE Audio and voice codec configurations
+* Enable Lazy RCU
+* Rework Uclamp Boosting
+* Set thermal_message via powerhint
+* Add more per-app thermal profiles(to match with powerhint changes)
+* Update Translations for parts app
+* Reapply Last thermal mode after screen off
+* Enable R8 optimizations for system_server and SystemUI
+* Set FP Boosting to Prime Cluster
+* Disable Speaker Protection
 -----------------------------------------------------------------------------------------------
