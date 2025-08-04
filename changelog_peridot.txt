@@ -1,4 +1,33 @@
 VoltageOS 4.5-EOL
+Build Date: 06/08/2025
+Device Side:
+* Switch to xiaomi-touch based single/double tap sensors
+* Fix single/double tap to ambient options
+* Fix BLE (bt low energy) connection (bt 5.x) on devices (smart watches, etc.)
+* Refactor game bar and htsr services
+* Set 80% as default speed for UI/app animations
+* Drop lineage health hal
+* Drop thermal profiles tile and per-app thermal profiles
+  (let's powerhal will control thermal profiles automatically via powerhint)
+* Implement charging control via parts app
+* Fully refactor powerhint handling
+* Drop walt down/up rate limits
+* Configure number of physical SIM slots
+* Enable USB and skin temperature warnings
+* Configure buffered background throttling
+* Increase launch boost for all hints to 5sec
+* Enable support for doze display state
+* Enable ADPF CPU hints for improved UI performance
+* Disable UI touch sounds and auto brightness by default when setting up phone first time
+* Implement HDR Brightness Modifier
+* Import QCOM audio effects from OnePlus 9R
+* Set higher priority for LDAC
+* Import `LDAC and LHDC` blobs
+* Label some sepolicy denials
+* Misc improvements and optimization
+
+-----------------------------------------------------------------------------------------------
+
 Build Date: 12/07/2025
 Device Side:
 
@@ -6,7 +35,7 @@ Device Side:
 * Update Adreno Blobs to v819
 * Update Vulcan to v1.3.295
 * Set Vulcan As HWUI Renderer
-* Fix HDR/SDR
+* Fix HDR/SDR ratio
 * Fix Top Speaker On Lock Screen
 * Fix delay on getting network service after boot
 * Setup LMKD And tune for better Multitasking
