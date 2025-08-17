@@ -4,11 +4,11 @@
         "maintainer": "GuidixX",
         "oem": "Xiaomi",
         "device": "peridot",
-        "filename": "voltage-4.5-EOL-peridot-20250812-1109-UNOFFICIAL.zip",
-        "download": "https://sourceforge.net/projects/guidixproject/files/voltage/stable/voltage-4.5-EOL-peridot-20250812-1109-UNOFFICIAL.zip/download",
-        "timestamp": 1754996765,
-        "md5": "09c6c89f462e80c0e8d5491027c5e10b",
-        "size": 2696924311,
+        "filename": "voltage-4.5-EOL-peridot-20250817-2231-UNOFFICIAL.zip",
+        "download": "https://sourceforge.net/projects/guidixproject/files/voltage/stable/voltage-4.5-EOL-peridot-20250817-2231-UNOFFICIAL.zip/download",
+        "timestamp": 2697224260,
+        "md5": "9a97081fb04e73a95387de1cff6c2bcd",
+        "size": 2697224260,
         "version": "4.5"
     }
   ]

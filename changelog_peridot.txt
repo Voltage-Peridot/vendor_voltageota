@@ -1,4 +1,20 @@
 VoltageOS 4.5-EOL
+Build Date: 18/08/2025
+Device Side:
+* Final Stable a15 update (next will be a16)
+* Allow enabling nolimits thermal mode also for games added in gamespace list with performance mode activated
+* Update Adreno and Vulkan blobs to V819.0.2
+* Disable single tap on fingerprint sensor
+* Add AUDIO_FORMAT_PCM_FLOAT support to usb_surround_sound and record_24
+* Update libinit from LineageOS xiaomi_sm8250-common tree
+- The new init updates dalvik configurations according to RAM size.
+* Update Dalvik heap size configuration to 8Gb
+* Add lower freq value for big and prime clusters to save more battery
+* Silence some logspam
+* Merge tag 6.1.138 into google common (ACK)
+
+-----------------------------------------------------------------------------------------------
+
 Build Date: 06/08/2025
 Device Side:
 * Switch to xiaomi-touch based single/double tap sensors
