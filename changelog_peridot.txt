@@ -1,3 +1,27 @@
+VoltageOS 5.0
+Build Date: 27/08/2025
+Device Side:
+* Initial a16 build (update 5.1 will be released officially)
+* Update Vendor Blobs to OS2.0.202.0.VNPMIXM
+* Add support for focaltech display panel
+* Add support for High touch polling rate for fts panel
+* Regenerate vendor with full elf checks
+* Cleanup vendor from some stock unused blobs
+* Build Display Related Libs from source
+* Switch to OSS QTI Vibrator HAL
+* Switch to AOSP WFD
+* Patch some camera blobs to use libui-v34 and fix unresolved symbols
+* Finally drop full Dolby Audio/Media stuff (it was unused, and still always crashed in bg for no reason)
+* Drop all MiSound related blobs and effects
+* Setup Boost Framework Configuration
+* Set default pin amount for home app
+* Lower boost on fixed_performance hints
+* Use max freq when game is loading
+* Disable deep idle states when the screen is on
+* Drop ksu next for now
+
+-----------------------------------------------------------------------------------------------
+
 VoltageOS 4.5-EOL
 Build Date: 18/08/2025
 Device Side:
